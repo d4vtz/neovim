@@ -1,0 +1,15 @@
+{
+    "workspace.library": [
+        "/home/medicendav/.local/share/nvim/lazy/neodev.nvim/types/stable",
+        "/usr/share/nvim/runtime/lua",
+        "/home/medicendav/.local/share/nvim/lazy/lazy.nvim/lua",
+        "/home/medicendav/.local/share/nvim/lazy/neodev.nvim/lua",
+        "/home/medicendav/.local/share/nvim/lazy/nvim-notify/lua",
+        "/home/medicendav/.local/share/nvim/lazy/mason.nvim/lua",
+        "/home/medicendav/.local/share/nvim/lazy/gitsigns.nvim/lua",
+        "/home/medicendav/.local/share/nvim/lazy/nvim-lspconfig/lua",
+        "/home/medicendav/.local/share/nvim/lazy/nord.nvim/lua",
+        "/home/medicendav/.config/nvim/lua",
+        "${3rd}/luv/library"
+    ]
+}
